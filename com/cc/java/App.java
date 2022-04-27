@@ -22,7 +22,7 @@ public class App {
 
             
         }
-        output("Cats: " + ObjList);
+        output("Cats:  " + ObjList);
         output(ObjList.get(0).getAttributes());
      
     }
